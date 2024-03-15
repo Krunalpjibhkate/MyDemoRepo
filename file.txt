@@ -1,4 +1,8 @@
 Jay shree ram
 Jay shree krishna
+<<<<<<< HEAD
 
 4th line added from local
+=======
+3rd line added from remote
+>>>>>>> 7b88adcc5b8bfd2877a7b30f75a2d1d6dd84d11f
